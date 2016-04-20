@@ -5,3 +5,7 @@
 img{
     margin-right: 10px;
 }
+.group:hover {
+  color: black ;
+  background-color: #def ;
+}
